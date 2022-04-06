@@ -3,8 +3,8 @@
 <h3 align="center">Hey there, I'm <a href="https://www.youtube.com/channel/UCRnPLtt_KiEjaar8NJ5kwnA">Nyx</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3>
 
 <p align="center">
-  <a href="https://discord.gg/DXTJxyRMaH" target="_blank"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.instagram.com/poa.nyx/" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://discord.gg/DXTJxyRMaH"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.instagram.com/poa.nyx/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  
    
   
